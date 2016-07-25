@@ -20,7 +20,7 @@ List<Map.Entry<String, Long>> result = map.entrySet().stream()
 
  
 ``` 
-
+```
 Usage   
 	--int selectTop=4;
 	--Density density= new Density(selectTop);
@@ -29,7 +29,7 @@ Usage
 ```	 
   
 MinHeap Java needs you
---
+ 
 **MinHeap Java** needs contributors for documentation, code and feedbacks..
  
 * Contribution guide is avalaible following [MinHeap Java contributing guide](https://github.com/major/MinHeap Java-perl/blob/master/CONTRIBUTING.md)
