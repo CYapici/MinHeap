@@ -1,6 +1,5 @@
 MinHeap Java 
 ====
-[![Build Status - Master](# Java-perl.svg?branch=master)](https://travis-ci.org/major/MinHeap Java-perl)
 [![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
 [![Project Status](http://opensource.box.com/badges/maintenance.svg)](http://opensource.box.com/badges)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/major/MinHeap Java-perl.svg)](http://isitmaintained.com/project/major/MinHeap Java-perl "Average time to resolve an issue")
