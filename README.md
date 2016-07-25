@@ -5,7 +5,7 @@ MinHeap Java
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/major/MinHeap Java-perl.svg)](http://isitmaintained.com/project/major/MinHeap Java-perl "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/major/MinHeap Java-perl.svg)](http://isitmaintained.com/project/major/MinHeap Java-perl "Percentage of issues still open")
 
-MinHeap Java is     ...
+MinHeap Java implementation with example usage frequency alternative to Java 8 collections filter     ...
 
 
  
