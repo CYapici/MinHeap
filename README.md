@@ -17,12 +17,13 @@ Thanks to  [@rolandomysqldba](#)
 * You will still have to connect like a mysql client:
 
 Connection and Authentication
-
-	--host <hostname> Connect to a remote host to perform tests (default: localhost)
-	--socket <socket> Use a different socket for a local connection
-	--port <port>     Port to use for connection (default: 3306)
-	--user <username> Username to use for authentication	
-	--pass <password> Password to use for authentication
+          int selectTop=4;
+	  Density density=  new Density(selectTop);
+  	  foreach item  values 
+  	      density.Read(item);
+  	      //end of foreach
+  	      density.ExecuteResult();
+	 
   
 MinHeap Java needs you
 --
