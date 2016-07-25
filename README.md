@@ -9,10 +9,16 @@ MinHeap Java implementation with example usage frequency alternative to Java 8 c
 
 
  
-**Question: How to use MinHeap Java from remote host ?**
-Thanks to  [@rolandomysqldba](#)
+**Question: How can i get most frequent top X item with java 8 **
+ Map<String, Long> map = list.stream()
+        .collect(Collectors.groupingBy(w -> w, Collectors.counting()));
+``` 
+List<Map.Entry<String, Long>> result = map.entrySet().stream()
+        .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
+        .limit(10)
+        .collect(Collectors.toList());
 
-* You will still have to connect like a mysql client:
+ 
 ``` 
 
 Usage   
