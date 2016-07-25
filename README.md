@@ -9,7 +9,6 @@ MinHeap Java
 MinHeap Java is     ...
 
 
-![MinHeap Java](# Java-perl/blob/master/MinHeap Java.png)
  
 **Question: How to use MinHeap Java from remote host ?**
 Thanks to  [@rolandomysqldba](#)
