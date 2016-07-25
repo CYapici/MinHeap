@@ -13,13 +13,14 @@ MinHeap Java is     ...
 Thanks to  [@rolandomysqldba](#)
 
 * You will still have to connect like a mysql client:
+``` 
 
 Usage   
 	--int selectTop=4;
 	--Density density= new Density(selectTop);
 	--foreach item values density.Read(item);
 	- density.ExecuteResult()
-	 
+```	 
   
 MinHeap Java needs you
 --
