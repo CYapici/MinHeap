@@ -31,5 +31,5 @@ MinHeap Java needs you
  
 **MinHeap Java** needs contributors for documentation, code and feedbacks..
  
-* Contribution guide is avalaible following [MinHeap Java contributing guide](https://github.com/major/MinHeap Java-perl/blob/master/CONTRIBUTING.md)
+* Contribution guide is avalaible following [MinHeap Java contributing guide](https://github.com/cagatayes85/MinHeap/blob/master/README.md)
  
